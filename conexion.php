@@ -1,7 +1,7 @@
 <?php
 $server="mysql.hostinger.mx";
 $usuario="u330732779_ana";
-$password="2224421266ana";
+$password="2BzRZmNRbU";
 $baseDatos="u330732779_final";
 
 
